@@ -178,3 +178,8 @@ modules.xml
 
 # End of https://www.gitignore.io/api/ruby,rails,rubymine+all
 
+/public/packs
+/public/packs-test
+/node_modules
+yarn-debug.log*
+.yarn-integrity
